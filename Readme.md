@@ -5,3 +5,4 @@
 [![Releases](https://img.shields.io/github/release/PimeTandas/SEM/all.svg?style=flat-square)](https://github.com/PimeTandas/SEM/releases)
 
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/PimeTandas/actions/develop?style=flat-square)
+test from phone 
